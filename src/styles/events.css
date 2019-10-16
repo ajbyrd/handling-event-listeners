@@ -1,0 +1,17 @@
+#art1 {
+    border: solid 1px red
+}
+
+#art2 {
+    border: solid 1px blue
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around
+}
+
+article {
+    width: 50%;
+}
